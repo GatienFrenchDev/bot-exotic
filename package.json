@@ -1,0 +1,25 @@
+{
+  "name": "bot-nainventure",
+  "version": "1.0.0",
+  "description": "Un bot discord pour la nainventure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gatien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GatienFrenchDev/bot-discord-nainventure/issues"
+  },
+  "homepage": "https://github.com/GatienFrenchDev/bot-discord-nainventure#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "ffmpeg-static": "^4.3.0",
+    "fs": "0.0.1-security",
+    "opusscript": "0.0.8",
+    "yt-search": "^2.8.0",
+    "ytdl-core": "^4.8.3"
+  }
+}
